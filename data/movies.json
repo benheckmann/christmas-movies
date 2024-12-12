@@ -1,0 +1,418 @@
+[
+    {
+      "title": "It's a Wonderful Life",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life"
+    },
+    {
+      "title": "Miracle on 34th Street",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Miracle_on_34th_Street"
+    },
+    {
+      "title": "A Christmas Carol",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Christmas_Carol_(1938_film)"
+    },
+    {
+      "title": "White Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/White_Christmas_(film)"
+    },
+    {
+      "title": "Home Alone",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Home_Alone"
+    },
+    {
+      "title": "Home Alone 2: Lost in New York",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York"
+    },
+    {
+      "title": "Elf",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Elf_(film)"
+    },
+    {
+      "title": "The Santa Clause",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Santa_Clause"
+    },
+    {
+      "title": "The Santa Clause 2",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Santa_Clause_2"
+    },
+    {
+      "title": "The Santa Clause 3: The Escape Clause",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Santa_Clause_3:_The_Escape_Clause"
+    },
+    {
+      "title": "National Lampoon's Christmas Vacation",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/National_Lampoon%27s_Christmas_Vacation"
+    },
+    {
+      "title": "The Polar Express",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Polar_Express_(film)"
+    },
+    {
+      "title": "How the Grinch Stole Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/How_the_Grinch_Stole_Christmas_(2000_film)"
+    },
+    {
+      "title": "Dr. Seuss' The Grinch",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Grinch_(film)"
+    },
+    {
+      "title": "A Christmas Story",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Christmas_Story"
+    },
+    {
+      "title": "Scrooged",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Scrooged"
+    },
+    {
+      "title": "The Muppet Christmas Carol",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Muppet_Christmas_Carol"
+    },
+    {
+      "title": "Love Actually",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Love_Actually"
+    },
+    {
+      "title": "The Nightmare Before Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas"
+    },
+    {
+      "title": "Bad Santa",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Bad_Santa"
+    },
+    {
+      "title": "Jingle All the Way",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Jingle_All_the_Way"
+    },
+    {
+      "title": "The Holiday",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Holiday"
+    },
+    {
+      "title": "Arthur Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Arthur_Christmas"
+    },
+    {
+      "title": "Four Christmases",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Four_Christmases"
+    },
+    {
+      "title": "Fred Claus",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Fred_Claus"
+    },
+    {
+      "title": "Deck the Halls",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Deck_the_Halls_(2006_film)"
+    },
+    {
+      "title": "Christmas with the Kranks",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Christmas_with_the_Kranks"
+    },
+    {
+      "title": "The Family Stone",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Family_Stone"
+    },
+    {
+      "title": "The Ref",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Ref"
+    },
+    {
+      "title": "Die Hard",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Die_Hard"
+    },
+    {
+      "title": "Die Hard 2",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Die_Hard_2"
+    },
+    {
+      "title": "Gremlins",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Gremlins"
+    },
+    {
+      "title": "Edward Scissorhands",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Edward_Scissorhands"
+    },
+    {
+      "title": "The Bishop's Wife",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Bishop%27s_Wife"
+    },
+    {
+      "title": "The Preacher's Wife",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Preacher%27s_Wife"
+    },
+    {
+      "title": "Holiday Inn",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Holiday_Inn_(film)"
+    },
+    {
+      "title": "Babes in Toyland (1934)",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Babes_in_Toyland_(1934_film)"
+    },
+    {
+      "title": "Babes in Toyland (1961)",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Babes_in_Toyland_(1961_film)"
+    },
+    {
+      "title": "The Shop Around the Corner",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Shop_Around_the_Corner"
+    },
+    {
+      "title": "Meet Me in St. Louis",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis"
+    },
+    {
+      "title": "The Man Who Came to Dinner",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Man_Who_Came_to_Dinner_(1942_film)"
+    },
+    {
+      "title": "Christmas in Connecticut",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Christmas_in_Connecticut"
+    },
+    {
+      "title": "Remember the Night",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Remember_the_Night"
+    },
+    {
+      "title": "Holiday Affair",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Holiday_Affair"
+    },
+    {
+      "title": "The Lemon Drop Kid",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Lemon_Drop_Kid"
+    },
+    {
+      "title": "We're No Angels",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/We%27re_No_Angels_(1955_film)"
+    },
+    {
+      "title": "The Apartment",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Apartment"
+    },
+    {
+      "title": "A Charlie Brown Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas"
+    },
+    {
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer_(TV_special)"
+    },
+    {
+      "title": "Frosty the Snowman",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Frosty_the_Snowman_(TV_special)"
+    },
+    {
+      "title": "Santa Claus Is Comin' to Town",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Claus_Is_Comin%27_to_Town_(TV_special)"
+    },
+    {
+      "title": "The Year Without a Santa Claus",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Year_Without_a_Santa_Claus"
+    },
+    {
+      "title": "Nestor, the Long-Eared Christmas Donkey",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Nestor,_the_Long-Eared_Christmas_Donkey"
+    },
+    {
+      "title": "The Little Drummer Boy",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Little_Drummer_Boy_(TV_special)"
+    },
+    {
+      "title": "The Snowman",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Snowman"
+    },
+    {
+      "title": "Jack Frost",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Jack_Frost_(1998_film)"
+    },
+    {
+      "title": "Prancer",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Prancer_(film)"
+    },
+    {
+      "title": "Olive, the Other Reindeer",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Olive,_the_Other_Reindeer"
+    },
+    {
+      "title": "The Christmas Shoes",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Christmas_Shoes_(film)"
+    },
+    {
+      "title": "A Christmas Prince",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Christmas_Prince"
+    },
+    {
+      "title": "A Christmas Prince: The Royal Wedding",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Christmas_Prince:_The_Royal_Wedding"
+    },
+    {
+      "title": "A Christmas Prince: The Royal Baby",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Christmas_Prince:_The_Royal_Baby"
+    },
+    {
+      "title": "Klaus",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Klaus_(film)"
+    },
+    {
+      "title": "Noelle",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Noelle_(2019_film)"
+    },
+    {
+      "title": "The Christmas Chronicles",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Christmas_Chronicles"
+    },
+    {
+      "title": "The Christmas Chronicles 2",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Christmas_Chronicles_2"
+    },
+    {
+      "title": "Holidate",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Holidate"
+    },
+    {
+      "title": "Operation Christmas Drop",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Operation_Christmas_Drop_(film)"
+    },
+    {
+      "title": "A Boy Called Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Boy_Called_Christmas"
+    },
+    {
+      "title": "8-Bit Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/8-Bit_Christmas"
+    },
+    {
+      "title": "Last Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Last_Christmas_(film)"
+    },
+    {
+      "title": "The Star",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Star_(2017_film)"
+    },
+    {
+      "title": "Christmas Evil",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Christmas_Evil"
+    },
+    {
+      "title": "Silent Night, Deadly Night",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Silent_Night,_Deadly_Night"
+    },
+    {
+      "title": "Krampus",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Krampus_(film)"
+    },
+    {
+      "title": "Rare Exports: A Christmas Tale",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Rare_Exports:_A_Christmas_Tale"
+    },
+    {
+      "title": "Anna and the Apocalypse",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Anna_and_the_Apocalypse"
+    },
+    {
+      "title": "Holiday Rush",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Holiday_Rush"
+    },
+    {
+      "title": "Jingle Jangle: A Christmas Journey",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Jingle_Jangle:_A_Christmas_Journey"
+    },
+    {
+      "title": "A Very Harold & Kumar 3D Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Very_Harold_%26_Kumar_3D_Christmas"
+    },
+    {
+      "title": "The Princess Switch",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Princess_Switch"
+    },
+    {
+      "title": "The Princess Switch: Switched Again",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Princess_Switch:_Switched_Again"
+    },
+    {
+      "title": "The Princess Switch 3: Romancing the Star",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Princess_Switch_3:_Romancing_the_Star"
+    },
+    {
+      "title": "The Christmas Train",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Christmas_Train_(film)"
+    },
+    {
+      "title": "The Spruces and the Pines",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Spruces_and_the_Pines"
+    },
+    {
+      "title": "Christmas Oranges",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Christmas_Oranges"
+    },
+    {
+      "title": "An American Christmas Carol",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/An_American_Christmas_Carol"
+    },
+    {
+      "title": "Snowglobe",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Snowglobe_(film)"
+    },
+    {
+      "title": "Snow",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Snow_(film)"
+    },
+    {
+      "title": "Snow 2: Brain Freeze",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Snow_2:_Brain_Freeze"
+    },
+    {
+      "title": "Call Me Claus",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Call_Me_Claus"
+    },
+    {
+      "title": "One Magic Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/One_Magic_Christmas"
+    },
+    {
+      "title": "Unaccompanied Minors",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Unaccompanied_Minors"
+    },
+    {
+      "title": "The Twelve Days of Christmas Eve",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_Eve"
+    },
+    {
+      "title": "Santa Buddies",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Buddies"
+    },
+    {
+      "title": "The Perfect Holiday",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Perfect_Holiday"
+    },
+    {
+      "title": "Christmas Town",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Christmas_Town_(film)"
+    },
+    {
+      "title": "Journey Back to Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Journey_Back_to_Christmas"
+    },
+    {
+      "title": "Angels Sing",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Angels_Sing"
+    },
+    {
+      "title": "Christmas on the Square",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Dolly_Parton%27s_Christmas_on_the_Square"
+    },
+    {
+      "title": "The Spirit of Christmas",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/The_Spirit_of_Christmas_(film)"
+    },
+    {
+      "title": "Santa Claus Conquers the Martians",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Claus_Conquers_the_Martians"
+    },
+    {
+      "title": "A Very Merry Mix-Up",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/A_Very_Merry_Mix-Up"
+    },
+    {
+      "title": "Christmas in the Smokies",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Christmas_in_the_Smokies"
+    }
+  ]
