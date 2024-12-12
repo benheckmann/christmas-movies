@@ -50,7 +50,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-b from-[#1a1a1a] to-[#0a0a0a] text-white">
       <main className="container mx-auto px-4 py-8">
         <div className="text-center mb-12">
-          <div className="flex justify-center mb-6">
+          <div className="flex justify-center mb-6 relative">
             <Image
               src="/jina-logo.png"
               alt="Jina Logo"
@@ -58,18 +58,18 @@ export default function Home() {
               height={150}
               priority
             />
+            <Image
+              src="/explosion.gif"
+              alt="Explosion"
+              width={200}
+              height={200}
+              className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"
+            />
           </div>
           <h1 className="text-4xl font-bold mb-4">
             Christmas Movie Matcher 
             <span className="relative inline-block">
               3000
-              <Image
-                src="/explosion.gif"
-                alt="Explosion"
-                width={60}
-                height={60}
-                className="absolute -right-10 -top-2"
-              />
             </span>
           </h1>
           <p className="text-xl text-gray-300">Find any christmas movie by describing it!</p>
