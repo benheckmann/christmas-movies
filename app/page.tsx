@@ -50,8 +50,29 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-b from-[#1a1a1a] to-[#0a0a0a] text-white">
       <main className="container mx-auto px-4 py-8">
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold mb-4">Christmas Movie Matcher</h1>
-          <p className="text-xl text-gray-300">Find your perfect Christmas movie match!</p>
+          <div className="flex justify-center mb-6">
+            <Image
+              src="/jina-logo.png"
+              alt="Jina Logo"
+              width={450}
+              height={150}
+              priority
+            />
+          </div>
+          <h1 className="text-4xl font-bold mb-4">
+            Christmas Movie Matcher 
+            <span className="relative inline-block">
+              3000
+              <Image
+                src="/explosion.gif"
+                alt="Explosion"
+                width={60}
+                height={60}
+                className="absolute -right-10 -top-2"
+              />
+            </span>
+          </h1>
+          <p className="text-xl text-gray-300">Find any christmas movie by describing it!</p>
         </div>
 
         <form onSubmit={handleSearch} className="max-w-2xl mx-auto mb-12">
